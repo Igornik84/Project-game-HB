@@ -1,0 +1,81 @@
+.container {
+    text-align: center;
+}
+
+.image {
+    width: 50%;
+    height: 30vw;
+    object-fit: contain;
+}
+
+.buttons button {
+    width: 100px;
+    height: 40px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.buttons button[name="gender"][value="Girl"] {
+    background-color: #c55266 ;
+}
+
+.buttons button[name="gender"][value="Man"] {
+    background-color: green;
+}
+button#wakeup {
+    display: block;
+    margin: 0 auto;
+    background-color: #4343b7;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form label {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+
+form label, form input {
+    margin: 5px;
+}
+
+form input[type="text"] {
+    border: 1px solid #d38282;
+    padding: 5px;
+}
+
+
+button#angry {
+    display: block;
+    margin: 0 auto;
+    background-color: #770c25;
+    color: white;
+    font-weight: bold;
+    padding: 10px 100px;
+    cursor: pointer;
+}
+button#happy {
+    display: block;
+    margin: 0 auto;
+    background-color: #ec9838;
+    color: white;
+    font-weight: bold;
+    padding: 10px 100px;
+    cursor: pointer;
+}
+.container {
+    display: inline-block;
+    font-size: 1.17em;
+    font-weight: bold;
+}
