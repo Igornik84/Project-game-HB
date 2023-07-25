@@ -9,7 +9,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a6f770b-7d35-4dd9-8f02-0f7ae95b4505" name="Changes" comment="My project game HB" />
+    <list default="true" id="6a6f770b-7d35-4dd9-8f02-0f7ae95b4505" name="Changes" comment="My project game HB">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_07_2023_18_43_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_07_2023_18_43__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/projectgamehb/EndServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/projectgamehb/EndServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/projectgamehb/FourthServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/projectgamehb/FourthServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/projectgamehb/HallServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/projectgamehb/HallServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/projectgamehb/HappyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/projectgamehb/HappyServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javarush/projectgamehb/IndexServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javarush/projectgamehb/IndexServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/happy.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/happy.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/classes/com/javarush/projectgamehb/EndServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/classes/com/javarush/projectgamehb/EndServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/classes/com/javarush/projectgamehb/FourthServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/classes/com/javarush/projectgamehb/FourthServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/classes/com/javarush/projectgamehb/HallServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/classes/com/javarush/projectgamehb/HallServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/classes/com/javarush/projectgamehb/HappyServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/classes/com/javarush/projectgamehb/HappyServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/classes/com/javarush/projectgamehb/IndexServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/classes/com/javarush/projectgamehb/IndexServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/happy.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Project-game-HB-1.0-SNAPSHOT/WEB-INF/happy.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javarush/projectgamehb/EndServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javarush/projectgamehb/EndServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javarush/projectgamehb/FourthServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javarush/projectgamehb/FourthServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javarush/projectgamehb/HallServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javarush/projectgamehb/HallServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javarush/projectgamehb/HappyServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javarush/projectgamehb/HappyServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javarush/projectgamehb/IndexServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javarush/projectgamehb/IndexServlet.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +113,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2SX1snkFR0kiZBwVDLPOHRdotGH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -104,7 +127,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_directory_selection&quot;: &quot;D:/My/java/Projects/Project-game-HB/src/test/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/My/java/Projects/Project-game-HB&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/My/java/Projects/Project-game-HB/src/main/resources&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -118,11 +141,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\My\java\Projects\Project-game-HB\src\main\webapp\images" />
       <recent name="D:\My\java\Projects\Project-game-HB\src\main\resources" />
       <recent name="D:\My\java\Projects\Project-game-HB\src\main\webapp\" />
-      <recent name="D:\My\java\Projects\Project-game-HB\src\main\webapp\WEB-INF" />
+      <recent name="D:\My\java\Projects\Project-game-HB\src\main\webapp" />
       <recent name="D:\My\java\Projects\Project-game-HB\src\main\webapp\static" />
+      <recent name="D:\My\java\Projects\Project-game-HB\src\main\webapp\images" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.74">
@@ -170,11 +193,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="5dd01987-2d12-46a2-8930-88635d6e8289" />
       </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
+      <log_file alias="Tomcat Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/manager.*" />
+      <log_file alias="Tomcat Host Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/host-manager.*" skipped="false" />
+      <log_file alias="Tomcat Localhost Access Log" path="%IDEA_RUN:CATALINA_BASE%/logs/localhost_access_log.*" skipped="false" />
+      <log_file checked="false" alias="Tomcat Localhost Log" path="%IDEA_RUN:CATALINA_BASE%/logs/localhost.*" />
+      <log_file checked="false" alias="Tomcat Catalina Log" path="%IDEA_RUN:CATALINA_BASE%/logs/catalina.*" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="53903" />
       </RunnerSettings>
@@ -272,7 +295,28 @@
       <workItem from="1689338556742" duration="2825000" />
       <workItem from="1689342145875" duration="51294000" />
       <workItem from="1689536496558" duration="1311000" />
+      <workItem from="1689538165592" duration="691000" />
+      <workItem from="1689538886493" duration="9098000" />
+      <workItem from="1689952147403" duration="4564000" />
+      <workItem from="1690029231147" duration="13358000" />
     </task>
+    <task id="LOCAL-00001" summary="My project game HB">
+      <option name="closed" value="true" />
+      <created>1689538355565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689538355565</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My project game HB">
+      <option name="closed" value="true" />
+      <created>1689538519669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689538519669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +333,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="Igor" />
                       </list>
                     </value>
                   </entry>
@@ -300,5 +344,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My project game HB" />
+    <option name="LAST_COMMIT_MESSAGE" value="My project game HB" />
   </component>
 </project>

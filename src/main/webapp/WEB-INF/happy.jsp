@@ -12,7 +12,7 @@
     <link href="static/main.css" rel="stylesheet">
 </head>
 <body>
-<div class="container">
+<div class="container">1
     <h1>Ночные события стираются с памяти. Эмоции зашкаливают.
         Вас окружают заботой и поздравлениями. Вы счастливы!!!</h1>
     <img src="images/конец.jpg" width ="600" alt="Конец" class="image">
